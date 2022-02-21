@@ -1,0 +1,47 @@
+
+.input_width{
+    width: 75px;
+    height: 15px;
+    margin-left: 5px;
+}
+.input_height{
+    width: 75px;
+    height: 15px;
+    margin-left: 5px;
+}
+.input_color{
+    width: 75px;
+    height: 15px;
+    margin-left: 5px;
+}
+.container{
+    width: 1024px;
+    height: 768px;
+    border: red solid 1px;
+}
+.color{
+    position: relative;
+    left: 5px;
+    top: -30px;
+}
+.input_color{
+    margin-left: 15px;
+    position: relative;
+    top: -5px;
+    height: 35px;
+    width: 75px;
+}
+.btn_create{
+    height: 50px;
+    width: 100px;
+    border-radius: 25%;
+    background-color: whitesmoke;
+}
+.button{
+    height: 50px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: whitesmoke;
+    display: inline-block;
+    margin-top: 15px;
+}
